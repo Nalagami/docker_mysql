@@ -1,6 +1,6 @@
 # docker_mysql
 
-# 使い方
+## 使い方
 
 ```
 $ docker-compose build
@@ -14,5 +14,5 @@ root@[コンテナID]:/project#   flask db migrate
 root@[コンテナID]:/project#   flask db upgrade
 ```
 
-# 参考
+## 参考
 https://qiita.com/AndanteSysDes/items/a25acc1523fa674e7eda
